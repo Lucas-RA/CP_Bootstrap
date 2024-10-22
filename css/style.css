@@ -1,0 +1,22 @@
+:root{
+    --color-default: #f4f5f9;
+    --color-dark: #222222;
+}
+
+body{
+    font-family: "Heebo", sans-serif;
+}
+
+.color{
+    background-color: var(--color-default);
+}
+
+.h-pt2{
+    min-height: 60vh;
+}
+
+/* pode ser assim ou colocar um bg-dark no código */
+.rodape{
+    background-color: var(--color-dark);
+    color: white;
+}

@@ -1,0 +1,17 @@
+:root {
+    --color--principal: #F4F5F9;
+}
+
+body {
+    font-family: "Heebo", sans-serif;
+
+}
+
+.container{
+    background-color: var(--color--principal);
+  
+}
+
+.container1{
+    background-color: white;
+}
